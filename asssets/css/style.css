@@ -114,7 +114,7 @@ nav, footer, header, aside {
     display: flex;
     justify-content: center;
 }
-.process-page__info, .process__content-right{
+.process-page__info, .process-page__infographics{
     width: 50%;
 }
 .process-page__info{
