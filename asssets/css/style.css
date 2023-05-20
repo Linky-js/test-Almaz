@@ -229,6 +229,9 @@ nav, footer, header, aside {
     .process-page__infographics {
         width: auto;
     }
+    .process-page__info{
+        width: 50%;
+    }
     .process-page__title {
         font-size: 47px;
         line-height: 52px;
