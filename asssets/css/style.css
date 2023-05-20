@@ -344,7 +344,6 @@ nav, footer, header, aside {
     padding: 21px 33px;
     display: flex;
     gap: 24px;
-    overflow-x: hidden;
 }
 .captcha span{
     font-family: 'Rubik Marker Hatch';
