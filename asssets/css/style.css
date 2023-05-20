@@ -131,6 +131,12 @@ nav, footer, header, aside {
     flex-direction: column;
     max-width: 410px;
 }
+.process-page__title--item{
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 140px;
+}
 .process-page__title--item:nth-child(2){
     align-self: flex-end;
 }
