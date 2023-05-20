@@ -230,7 +230,7 @@ nav, footer, header, aside {
     background-color: #F9F9F8;
 }
 .process-page .container{
-    background-image: url('/asssets/img/main-img/process_bg.jpg');
+    background-image: url('../asssets/img/main-img/process_bg.jpg');
     background-size: cover;
     background-position: bottom left;
     padding-bottom: 124px;
