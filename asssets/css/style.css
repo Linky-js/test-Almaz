@@ -109,6 +109,7 @@ nav, footer, header, aside {
     background-size: cover;
     background-position: bottom left;
     padding-bottom: 124px;
+    background-size: cover;
 }
 .process-page__content{
     display: flex;
