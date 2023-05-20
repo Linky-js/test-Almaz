@@ -232,6 +232,10 @@ nav, footer, header, aside {
         font-size: 47px;
         line-height: 52px;
     }
+    .process-page__title--item{
+        font-size: 47px;
+        line-height: 52px;
+    }
     .process-page__infographics_items {
         display: flex;
         flex-wrap: wrap;
@@ -415,5 +419,22 @@ nav, footer, header, aside {
     }
     .registration-page__info {
         gap: 20px;
+    }
+    .captcha span {
+        font-family: 'Rubik Marker Hatch';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 44px;
+        line-height: 52px;
+        color: #FFF8E1;
+    }
+    .password-buttons{
+        flex-wrap: wrap;
+    }
+    .button{
+        width: 100%
+    }
+    .registration-form{
+        width: 100%;
     }
 }
