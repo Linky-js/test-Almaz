@@ -286,6 +286,7 @@ nav, footer, header, aside {
     justify-content: center;
     align-items: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .registration-page__content{
     display: flex;
@@ -424,6 +425,9 @@ nav, footer, header, aside {
     .registration-page__info {
         gap: 20px;
     }
+    
+}
+@media (max-width: 550px){
     .captcha{
         background: #A0B3AF;
         border-radius: 12px;
@@ -448,5 +452,8 @@ nav, footer, header, aside {
     }
     .registration-form{
         width: 100%;
+    }
+    .registration-page__content{
+        background: white;
     }
 }
