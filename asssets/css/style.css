@@ -1,83 +1,3 @@
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Black.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-BlackItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-BlackItalic.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-BoldItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-BoldItalic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-HeavyItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-HeavyItalic.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Bold.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Light.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Light.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-LightItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-LightItalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-MediumItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-MediumItalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Heavy.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Heavy.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
 
 @font-face {
     font-family: 'SF Pro Display';
@@ -90,8 +10,8 @@
 
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Regular.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Regular.woff') format('woff');
+    src: url("https://linky-js.github.io/test-Almaz/asssets/fonts/SFProDisplay-Regular.woff2") format('woff2'),
+        url("https://linky-js.github.io/test-Almaz/asssets/fonts/SFProDisplay-Regular.woff") format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -99,17 +19,8 @@
 
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-RegularItalic.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-RegularItalic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/asssets/fonts/SFProDisplay-Medium.woff2') format('woff2'),
-        url('/asssets/fonts/SFProDisplay-Medium.woff') format('woff');
+    src: url("https://linky-js.github.io/test-Almaz/asssets/fonts/SFProDisplay-Medium.woff2") format('woff2'),
+        url("https://linky-js.github.io/test-Almaz/asssets/fonts/SFProDisplay-Medium.woff") format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -117,46 +28,10 @@
 
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('/assets/fonts/SFProDisplay-Semibold.woff2') format('woff2'),
+    src: url("https://linky-js.github.io/test-Almaz/asssets/fonts/SFProDisplay-Semibold.woff2") format('woff2'),
         url('/assets/fonts/SFProDisplay-Semibold.woff') format('woff');
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/assets/fonts/SFProDisplay-Thin.woff2') format('woff2'),
-        url('/assets/fonts/SFProDisplay-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/assets/fonts/SFProDisplay-ThinItalic.woff2') format('woff2'),
-        url('/assets/fonts/SFProDisplay-ThinItalic.woff') format('woff');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/assets/fonts/SFProDisplay-Ultralight.woff2') format('woff2'),
-        url('/assets/fonts/SFProDisplay-Ultralight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SF Pro Display';
-    src: url('/assets/fonts/SFProDisplay-UltralightItalic.woff2') format('woff2'),
-        url('/assets/fonts/SFProDisplay-UltralightItalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
     font-display: swap;
 }
 body{
