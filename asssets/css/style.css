@@ -344,6 +344,7 @@ nav, footer, header, aside {
     padding: 21px 33px;
     display: flex;
     gap: 24px;
+    overflow-x: hidden;
 }
 .captcha span{
     font-family: 'Rubik Marker Hatch';
@@ -421,11 +422,19 @@ nav, footer, header, aside {
     .registration-page__info {
         gap: 20px;
     }
+    .captcha{
+        background: #A0B3AF;
+        border-radius: 12px;
+        padding: 21px 16px;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+    }
     .captcha span {
         font-family: 'Rubik Marker Hatch';
         font-style: normal;
         font-weight: 400;
-        font-size: 44px;
+        font-size: 30px;
         line-height: 52px;
         color: #FFF8E1;
     }
