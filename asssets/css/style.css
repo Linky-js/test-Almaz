@@ -230,7 +230,7 @@ nav, footer, header, aside {
     background-color: #F9F9F8;
 }
 .process-page .container{
-    background-image: url('assets/img/main-img/process_bg.jpg');
+    background-image: url("https://linky-js.github.io/test-Almaz/assets/img/main-img/process_bg.jpg");
     background-size: cover;
     background-position: bottom left;
     padding-bottom: 124px;
@@ -334,7 +334,7 @@ nav, footer, header, aside {
         font-size: 18px;
     }
     .process-page {
-        background-image: url(asssets/img/main-img/process_bg-mobile.jpg);
+        background-image: url("https://linky-js.github.io/test-Almaz/assets/img/main-img/process_bg-mobile");
         padding-bottom: 42px;
         background-size: 150%;
         background-repeat: no-repeat;
